@@ -52,7 +52,7 @@ col1, col2, col3 = st.columns([1,3,1])
 with col2:
     st.write("### **Jesús Bryan parada Pérez**")
     st.write("###         Luis Fernando Meza Argüello")
-    st.write("###         Maria Fernanada Maya Ortega")
+    st.write("###         Maria Fernanda Maya Ortega")
 
     opinion_nueva = st.text_input("Ingrese su opinion",
                                 label_visibility="visible",
